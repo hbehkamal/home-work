@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+		<meta charset="utf-8" content="text/html;"/>
+			<title>
+				"Hosein Behkamal" 
+			</title>
+	</head>
+	<body>
+		<p align="center"><font color="green" size="50">Iran</font></p>
+		<img src="map.jpg" style="float:center" />
+			<map name="map" id="map">
+				<area shape="poly" coords="930,245,912,225,877,210,847,185,820,207,807,247,799,265,762,250,736,272,728,255,728,294,737,330,746,363,753,377,792,397,774,417,860,450,770,498,749,462,763,425,952,450,983,393,991,310,982,257" href="Mash.jpg"></area>
+			</map>
+	</body>
+</html>	
