@@ -1,0 +1,27 @@
+<!doctype html system>
+<html>
+  <head>
+		<li><a target="_blank" href="home.html">Home</a></li>
+		<li><a target="_blank" href="mash.html">Khorasan Razavi</a></li>
+		<li><a target="_blank" href="esf.html">Esfahan</a></li>
+		<meta charset="utf-8" />
+		<title>تهران</title>
+		<style type="text/css"></style>
+	</head>
+	<body style="background-color:lightgreen;">
+		<script type="text/javascript">
+			function bigImg(x)
+				{
+					x.style.height="512px";
+					x.style.width="512px";
+				}
+			function normalImg(x)
+				{
+					x.style.height="256px";
+					x.style.width="256px";
+				}
+		</script>
+		<img style="float:right;" onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="teh.png" alt="Tehran" width="256" height="256" />
+		<iframe src="fteh.html" width="800" height="500"></iframe>
+	</body>
+</html>
