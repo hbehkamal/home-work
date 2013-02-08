@@ -1,6 +1,6 @@
 <!doctype html system>
 <html>
-  <head>
+	<head>
 		<li><a target="_blank" href="home.html">Home</a></li>
 		<li><a target="_blank" href="teh.html">Tehran</a></li>
 		<li><a target="_blank" href="esfh.html">Esfahan</a></li>
@@ -22,5 +22,6 @@
 				}
 		</script>
 		<img style="float:right;" onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="mash2.png" alt="Khorasan Razavi" width="256" height="256" />
+		<iframe src="fmash.html" width="800" height="500"></iframe>
 	</body>
 </html>
