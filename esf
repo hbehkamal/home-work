@@ -1,0 +1,27 @@
+<!doctype html system>
+<html>
+  <head>
+		<li><a target="_blank" href="home.html">Home</a></li>
+		<li><a target="_blank" href="mash.html">Khorasan Razavi</a></li>
+		<li><a target="_blank" href="teh.html">Tehran</a></li>
+		<meta charset="utf-8" />
+		<title>اصفهان</title>
+		<style type="text/css"></style>
+	</head>
+	<body style="background-color:pink;">
+		<script type="text/javascript">
+			function bigImg(x)
+				{
+					x.style.height="512px";
+					x.style.width="512px";
+				}
+			function normalImg(x)
+				{
+					x.style.height="256px";
+					x.style.width="256px";
+				}
+		</script>
+		<img style="float:right;" onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="esf.png" alt="Esfahan" width="256" height="256" />
+		<iframe src="fesf.html" width="800" height="500"></iframe>
+	</body>
+</html>
