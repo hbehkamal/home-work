@@ -1,21 +1,42 @@
 <!doctype html>
 <html>
-  	 <head>
+ 	<head>
  		<h1>استان خراسان رضوی</h1>
  		<meta charset="utf-8" />
  		<style type="text/css">
  		h1 {float:right;}
- 		p {font-size:30px;float:right;}
- 		p {font-size:30px;float:right;}
+ 		p {font-size:30px;float:right;text-align:right;}
+ 		p {font-size:30px;float:right;text-align:right;}
  		body {background-color:lightyellow;}
  		</style>
  	</head>
  	<body>
- 		<p>
+ 		<p align="justify">
  			استان خراسان رضوی با مساحتي بالغ بر 127432 كيلومتر مربع از شمال به جمهوری تركمنستان، از شمال غربی به استان خراسان شمالی، از شرق به كشور افغانستان، از جنوب به استان سيستان و بلوچستان، و از غرب و شمال غرب، به استان يزد، اصفهان، سمنان و گلستان محدود مي‌باشد.
 		</p>
 		<p>
 			بر اساس آخرين تقسيمات كشوری اين استان به مركزيت مشهد داراي 19 شهرستان، 64 نقطه شهری، 62 بخش و 158 دهستان و 3767 آبادي داراي سكنه مي‌باشد.
 		</p>
+		<table border="0" cellpadding="3" cellspacing="3">
+			<TBODY>
+				<tr>
+					<td>
+						<p align="center">
+							<img border="1" src="mash1.jpg" width="160" height="105" alt="استان خراسان">
+						</p>
+					</td>
+					<td>
+						<p align="center">
+							<img border="1" src="mash2.jpg" width="160" height="105" alt="استان خراسان">
+						</p>
+					</td>
+					<td>
+						<p align="center">
+							<img border="1" src="mash3.jpg" width="160" height="105" alt="استان خراسان">
+						</p>
+					</td>
+				</tr>
+			</TBODY>
+		</table>	
  	</body>
 </html>
