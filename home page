@@ -1,22 +1,21 @@
 <!doctype html>
 <html>
-  <head>
+	<head>
 		<meta charset="utf-8" />
 			<title>
 				Hosein Behkamal
 			</title>
 			<style type="text/css">
 				body {font-size:25px;background-color:lightgreen;}
-				img {float:right;}
+				img { float:right;}
 			</style>
 	</head>
 	<body>
-			<img src="map.png" alt="Iran"/>
-			please choose city :
-			<p>
-				<li><a target="_blank" href="mash.html">Khorasan Razavi</a></li>
-				<li><a target="_blank" href="esf.html">Esfahan</a></li>
-				<li><a target="_blank" href="teh.html">Tehran</a></li>
-			</p>
+		choose city:
+		<ul>
+			<li><a target="_blank" href="mash.html">Khorasan Razavi</a></li>
+			<li><a target="_blank" href="esf.html">Esfahan</a></li>
+			<li><a target="_blank" href="teh.html">Tehran</a></li>
+		</ul>	
 	</body>
 </html>	
