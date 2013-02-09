@@ -1,18 +1,39 @@
 <!doctype html>
 <html>
-   <head>
+ 	<head>
  		<h1>استان اصفهان</h1>
  		<meta charset="utf-8" />
  		<style type="text/css">
  		h1 {float:right;}
- 		p {font-size:30px;float:right;}
- 		p {font-size:30px;float:right;}
+ 		p {font-size:30px;float:right;text-align:right;}
+ 		p {font-size:30px;float:right;text-align:right;}
  		body {background-color:#1acbed;}
  		</style>
  	</head>
  	<body>
- 		<p>
+ 		<p align="justify">
  			استان اصفهان با مساحت 107027 كيلومتر مربع در مركز كشور واقع شده است كه مركز آن شهر اصفهان است‌. اين‌استان از شمال به سمنان، قم و مركزي، از جنوب به يزد و فارس، از مشرق به خراسان و از مغرب به لرستان، خوزستان، چهارمحال و بختياري و كهكيلويه و بويراحمد محدود مي‌شود. مساحت اين استان تقريباً 6/6 درصد از مساحت كل كشور را تشكيل داده است‌.  
 		</p>
+		<table border="0" cellpadding="3" cellspacing="3">
+			<TBODY>
+				<tr>
+					<td>
+						<p align="center">
+							<img border="1" src="esf1.jpg" width="160" height="105" alt="استان اصفهان">
+						</p>
+					</td>
+					<td>
+						<p align="center">
+							<img border="1" src="esf2.jpg" width="160" height="105" alt="استان اصفهان">
+						</p>
+					</td>
+					<td>
+						<p align="center">
+							<img border="1" src="esf3.jpg" width="160" height="105" alt="استان اصفهان">
+						</p>
+					</td>
+				</tr>
+			</TBODY>
+		</table>	
  	</body>
 </html>
