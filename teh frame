@@ -1,18 +1,18 @@
-<doctype html>
+<!DOCTYPE html>
 <html>
-   <head>
- 		<h1>استان تهران</h1>
- 		<meta charset="utf-8" />
- 		<style type="text/css">
- 		h1 {float:right;}
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>استان تهران</title>
+	<style type="text/css">
+		h1 {float:right;}
  		p {font-size:30px;float:right;}
  		p {font-size:30px;float:right;}
  		body {background-color:#e19159;}
- 		</style>
- 	</head>
- 	<body>
- 		<p>
+	</style>
+</head>
+<body>
+	<p>
  			استان تهران با 18909 كيلومترمربع مساحت و 2/1 درصد مساحت كل كشور ايران از آن جهت از ديگر استانهاي كشور متمايز است كه به عنوان مركزيت سياسي جمهوري اسلامي ايران در آن مستقر است. ولي استان و شهر تهران برخلاف آنچه كه تصور مي‌شود علاوه بر محوريت سياسي كه ويژگي آن محسوب مي‌شود داراي ابعاد مختلفي همچون ساير استانهاي ايران و همه شهرها و استانهاي كشورهاي دنيا است.
-		</p>
- 	</body>
+	</p>
+</body>
 </html>
