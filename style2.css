@@ -1,0 +1,39 @@
+p {
+	font-family:"Times New Roman", Times, serif;		/*baraye entekhabe noe font(font avval namayesh dade mishavad,dar surati ke fonte avval ro browser support nakone fonte 2vom namayesh dade mishavad*/
+}
+p {
+	font-style:normal;		/*halate mamuli*/
+}
+p {
+	font-style:italic;		/*halate mayel(kaj)*/
+}
+p {
+	font-style:oblique;		/*hamun halate kaje k ghablan estefade mishode*/
+}
+p {
+	font-size:40px;		/*andazeye font ba vahede pixel*/
+}
+p {
+	font-size:2.5em;		/*andazeye font ba vahede em(1em=16px)*/
+}
+body {
+	font-size:100%;		/*andazeye font ba vahede darsad*/
+}
+a:link {
+	color:red;			/*range yek link*/
+}      
+a:visited {
+	color:green;			/*rang link haye dide shode*/
+}  
+a:hover {
+	color:blue;				/*rang link haye dide nashode*/
+}  
+a:active {
+	color:magenta;			/*rang link haye entekhab(fa'al) shode*/
+}  
+a:hover {
+	text-decoration:underline;		/*range link hengami k mouse ruye an gharar begirad*/
+}
+a:link {
+	background-color:#B2FF99;		/*range paszamineye link*/
+}
