@@ -1,0 +1,46 @@
+p{
+	text-align:center;					/*vasatchin*/
+}
+p {
+	text-align:right;					/*rastchin*/
+}
+p {
+	text-align:justify;					/*....*/
+}
+p {
+	text-decoration:overline;			/*khat balaye matn*/
+}
+p {
+	text-decoration:line-through;		/*khat ruye matn*/
+}
+p {
+	text-decoration:underline;			/*khat zire matn*/
+}
+p {
+	text-decoration:blink;				/*matne cheshmak zan(faghat dar mozila kar mikone)*/
+}
+p{
+	text-transform:uppercase;			/*tamame kalamat ba horufe bozorg neveshte mishavad*/
+}
+p{
+	text-transform:lowercase;			/*tamame kalamat ba horufe kuchak neveshte mishavad*/
+}
+p{
+	text-transform:capitalize;			/*faghat avval kalamat ba horufe bozorg neveshte mishavad*/
+}
+p {
+	text-indent:20px;					/*be matn tu raftegi midahad*/
+}
+p {
+	background-color:#6495ed;			/*rang background ra moshakhas mikonad*/
+}
+body
+{
+background-image:url('pic.png');		/*axe background ra moshakhas mikonad*/
+background-repeat:repeat-x;				/*tekrare axe background be surate amudi*/
+background-repeat:no-repeat;			/*tekrar nashodane background*/
+background-position:right top;			/*jahat tanzim mahale gharar gereftane axe background*/
+}
+body {
+	background:#ffffff url('img_tree.png') no-repeat right top;			/*baraye kutah nevisi azin raveshe neveshtan estefade mishavad*/
+}
