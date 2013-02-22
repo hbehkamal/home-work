@@ -1,0 +1,32 @@
+body{
+  background-color:#f8f5e4;
+}
+table.pics{
+	background-color:#40413c;
+}
+table.up{
+	text-align: center;
+}
+a.home{
+	color: gray;
+	font-size: 35px;
+}
+a.dec{
+	color: gray;
+	font-size: 35px;
+}
+a.abajor{
+	color: gray;
+	font-size: 35px;
+}
+a.key{
+	color: gray;
+	font-size: 35px;
+}
+/*  a.logo:hover{
+	background-image: url(logo3.bmp);
+}  */
+a:hover{
+	color: black;
+	font-weight:bold;
+}
