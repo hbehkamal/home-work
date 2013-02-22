@@ -1,5 +1,5 @@
 body{
-  background-color:#f8f5e4;
+	background-color:#f8f5e4;
 }
 table.pics{
 	background-color:#40413c;
@@ -7,25 +7,27 @@ table.pics{
 table.up{
 	text-align: center;
 }
-a.home{
+.home{
+	color: gray;
+	font-size: 35px;
+	vertical-align:bottom;
+}
+.dec{
 	color: gray;
 	font-size: 35px;
 }
-a.dec{
+.abajor{
 	color: gray;
 	font-size: 35px;
 }
-a.abajor{
+.key{
 	color: gray;
 	font-size: 35px;
+	vertical-align:bottom;
 }
-a.key{
-	color: gray;
-	font-size: 35px;
-}
-/*  a.logo:hover{
+a.logo:hover{
 	background-image: url(logo3.bmp);
-}  */
+}
 a:hover{
 	color: black;
 	font-weight:bold;
