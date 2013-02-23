@@ -1,22 +1,25 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-  <title>HOVER</title>
+	<title>HOVER</title>
 	<meta charset="UTF-8" />
 	<style type="text/css">
-		div:hover .pic1{
+		div.header{
+			width: 250px;
+		}
+		div.header:hover .pic1{
 			display: none;
 		}
-		div:hover .pic2{
+		div.header:hover .pic2{
 			display: inline;
 		}
-		.pic2{
+		div.header .pic2{
 			display: none;
 		}
 	</style>
 </head>
 <body>
-	<div>
+	<div class="header">
 		<img class="pic1" src="pic1.jpg" alt="Smile" />
 		<img class="pic2" src="pic2.jpg"alt="Very smile" />
 	</div>
